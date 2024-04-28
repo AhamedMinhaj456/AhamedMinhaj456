@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ahamed Minhaj</h1>
 <h3 align="center">A Computer Engineering Undergraduate</h3>
 
+![Ahamed_Minhaj_Banner](https://github.com/AhamedMinhaj456/AhamedMinhaj456/assets/139200872/547728b8-d2e2-4d52-9764-34be96e0b9cb)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedminhaj456&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedminhaj456" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahamedminhaj456" alt="ahamedminhaj456" /></a> </p>
