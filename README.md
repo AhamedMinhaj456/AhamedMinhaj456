@@ -3,7 +3,8 @@
 
 ![Ahamedminhaj_Banner](https://github.com/AhamedMinhaj456/AhamedMinhaj456/assets/139200872/101d89ee-344c-4ea4-b895-466c6c9252a3)
 
-<h3 align="center" >My Website: Ahamed Minhaj <a href="https://ahamedminhaj456.netlify.app"></h3>
+<h3 align="center">My Website: <a href="https://ahamedminhaj456.netlify.app">Ahamed Minhaj</a></h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedminhaj456&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedminhaj456" /> </p>
 
