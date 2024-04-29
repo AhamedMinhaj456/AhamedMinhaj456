@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahamed Minhaj</h1>
 <h3 align="center">A Computer Engineering Undergraduate</h3>
-
-![Ahamed_Minhaj_Banner](https://github.com/AhamedMinhaj456/AhamedMinhaj456/assets/139200872/547728b8-d2e2-4d52-9764-34be96e0b9cb)
+![Ahamedminhaj_Banner](https://github.com/AhamedMinhaj456/AhamedMinhaj456/assets/139200872/2b72b315-d5da-4db0-becd-2e7dbaef725e)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahamedminhaj456&label=Profile%20views&color=0e75b6&style=flat" alt="ahamedminhaj456" /> </p>
 
